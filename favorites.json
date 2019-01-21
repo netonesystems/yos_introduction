@@ -1,0 +1,19 @@
+{
+    "fovorites":[
+        {
+            "name": "焼き牡蠣",
+            "url": "https://www.google.com/maps/search/焼き牡蠣",
+            "image": "images/oister.jpg"
+        },
+        {
+                "name": "カリフォルニアロール",
+                "url": "https://www.google.com/maps/search/カリフォルニアロール",
+                "image": "images/sushi.jpg"
+        },
+        {
+                "name": "鰹の塩タタキ",
+                "url": "https://www.google.com/maps/search/鰹の塩タタキ",
+                "image": "images/skipjack.jpg"
+        }
+    ]
+}
